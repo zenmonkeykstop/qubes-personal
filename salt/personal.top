@@ -1,0 +1,6 @@
+base:
+  dom0:
+    - personal/rustenv
+
+  rustenv-template:
+    - personal/setup-rustenv
