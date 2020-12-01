@@ -1,0 +1,8 @@
+base:
+  dom0:
+    - kali-lab/t-kali-lab
+    - kali-lab/kali-lab
+
+  t-kali-lab:
+    - kali-lab/upgrade-to-bullseye
+    - kali-lab/install-kali-full
